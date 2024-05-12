@@ -1,0 +1,84 @@
+{
+    "faqEntries":[
+        {
+            "_id":1,
+            "question":"What guarantees do I have that SnoreQuit products work?",
+            "answer":"While SnoreQuit customers have experienced countless snore-free nights with our effective solutions, SnoreQuit provides a 60 Night Better Sleep Guarantee. Enjoy SnoreQuit products worry-free for a complete 60 nights.",
+            "relatedProducts":["PSQ02","PSQ03"],
+            "associatedTabs":[1],
+            "sections":["GI1"]
+        },
+        {
+            "_id":2,
+            "question":"Does altering my SnoreQuit Mouthpiece void the Better Sleep Guarantee?",
+            "answer":" Modifying your device doesn't nullify the Better Sleep Guarantee. Some individuals opt to make minor adjustments to their SnoreQuit in areas where it may cause discomfort to their gums or teeth. You're encouraged to adhere to the instructions in the manual for a more personalized fit.",
+            "relatedProducts":["PSQ01","PSQ03"],
+            "associatedTabs":[1],
+            "sections":["GI1"]
+        },
+        {
+            "_id":3,
+            "question":"Can I find SnoreQuit products in retail stores?",
+            "answer":"Absolutely! SnoreQuit products are accessible on Amazon.in and Flipkart.com",
+            "relatedProducts":["PSQ02","PSQ03"],
+            "associatedTabs":[1],
+            "sections":["GI2"]
+        },
+        {
+            "_id":4,
+            "question":"How do I insert my SnoreQuit earplugs?",
+            "answer": "Before use, ensure your hands are clean and your ear canals are clear of wax. Hold the wide end of the earplug and gently insert the tip into the ear canal with a twisting motion until the ear is sealed.",
+            "relatedProducts":["PSQ03","PSQ04"],
+            "associatedTabs":[3],
+            "sections":["OS1"]
+        },
+        {
+            "_id":5,
+            "question":"How soon should I expect to see results with a SnoreQuit Mouthpiece?",
+            "answer":"Expect to experience results from the first night of use. Optimal effectiveness is achieved after determining which jaw advancement (Comfort 1 or Comfort 2) suits you best.",
+            "relatedProducts":["PSQ01","PSQ02"],
+            "associatedTabs":[2],
+            "sections":["AS1"]
+        },
+        {
+            "_id":6,
+            "question":"Is there any setup involved with the SnoreQuit Mouthpiece?",
+            "answer":"There is no setup involved. You can simply take it out of the case and use it. Start with the Comfort 1 device. If your snoring persists then use the Comfort 2 device which will widen the airway slightly more",
+            "relatedProducts":["PSQ01","PSQ02"],
+            "associatedTabs":[2],
+            "sections":["AS1"]
+        },
+        {
+            "_id":7,
+            "question":"The SnoreQuit Mouthpiece pops out of my mouth. What can I do?",
+            "answer":"If you're new to using a SnoreQuit Mouthpiece, allow some adjustment time. It's common to involuntarily remove the mouthpiece while sleeping initially, but this will diminish with continued use. If the issue persists, consider using a chin strap to stabilize the jaw and maintain the mouthpiece in position.",
+            "relatedProducts":["PSQ02","PSQ03"],
+            "associatedTabs":[2],
+            "sections":["AS2"]
+        },
+        {
+            "_id":8,
+            "question":"The SnoreQuit Mouthpiece makes me drool more than usual. Is this normal and how long will it last",
+            "answer":"Drooling is a typical concern for numerous users and often diminishes over time. The body naturally produces more saliva when a device is in the mouth. Typically, within a span of 2 days to 2 weeks, most users find that drooling ceases, and they attain optimal comfort with their SnoreQuit Mouthpiece.",
+            "relatedProducts":["PSQ02","PSQ03"],
+            "associatedTabs":[2],
+            "sections":["AS2"]
+        },
+        {
+            "_id":9,
+            "question":"How do I clean the SnoreQuit Earplugs?",
+            "answer":"Maintaining the earplugs is straightforward. Use a brush to eliminate dirt or wax from the tip, and gently wipe the ear tip with a soft, damp cloth. Note: Avoid soaking or submerging the noise reduction filters, as they are not waterproof. Before deep cleaning the ear tips with mild soap and water, remove the filters. Refrain from using cleaning solvents or chemicals.",
+            "relatedProducts":["PSQ02","PSQ04"],
+            "associatedTabs":[3],
+            "sections":["OS1"]
+        },
+        {
+            "_id":8,
+            "question":"When should I replace my SnoreQuit Earplugs?",
+            "answer":"Your SnoreQuit earplugs are reusable, but over time, the eartips may weaken and potentially break. It's recommended to replace them every three months or sooner if you notice significant wear.",
+            "relatedProducts":["PSQ02","PSQ03"],
+            "associatedTabs":[3],
+            "sections":["OS1"]
+        }
+    ]
+}

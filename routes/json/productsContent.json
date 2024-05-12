@@ -1,0 +1,112 @@
+{
+    "productsContent": [
+        {
+            "_id":1,
+            "relatedProductCode":"PSQ01",
+            "img":"product-card_01.png",
+            "desc": {
+                "desc":"Instant snoring relief with our starter pack for an anti-snoring mouthpiece.",
+                "key_points": [
+                    {
+                        "title":"Simple to use",
+                        "desc":"no need for boiling or molding"
+                    },
+                    {
+                        "title":"Efficient" ,
+                        "desc":"relied upon by millions for over ten"
+                    },
+                    {
+                        "title":"Secure",
+                        "desc":"FDA-approved snoring remedy"
+                    },
+                    {
+                        "title":"Cozy",
+                        "desc":"soft, sleek, and adaptable"
+                    }
+                ],
+                "footer_desc":"NA"
+            }
+        },
+        {
+            "_id":2,
+            "relatedProductCode":"PSQ02",
+            "img":"product-card_01.png",
+            "desc": {
+                "desc":"Instant snoring relief with our starter pack for an anti-snoring mouthpiece.",
+                "key_points": [
+                    {
+                        "title":"Simple to use",
+                        "desc":"no need for boiling or molding"
+                    },
+                    {
+                        "title":"Efficient" ,
+                        "desc":"relied upon by millions for over ten"
+                    },
+                    {
+                        "title":"Secure",
+                        "desc":"FDA-approved snoring remedy"
+                    },
+                    {
+                        "title":"Cozy",
+                        "desc":"soft, sleek, and adaptable"
+                    }
+                ],
+                "footer_desc":"NA"
+            }
+        },
+        {
+            "_id":3,
+            "relatedProductCode":"PSQ03",
+            "img":"product-card_01.png",
+            "desc": {
+                "desc":"Instant snoring relief with our starter pack for an anti-snoring mouthpiece.",
+                "key_points": [
+                    {
+                        "title":"Simple to use",
+                        "desc":"no need for boiling or molding"
+                    },
+                    {
+                        "title":"Efficient" ,
+                        "desc":"relied upon by millions for over ten"
+                    },
+                    {
+                        "title":"Secure",
+                        "desc":"FDA-approved snoring remedy"
+                    },
+                    {
+                        "title":"Cozy",
+                        "desc":"soft, sleek, and adaptable"
+                    }
+                ],
+                "footer_desc":"NA"
+            }
+        },
+        {
+            "_id":4,
+            "relatedProductCode":"PSQ04",
+            "img":"product-card_01.png",
+            "desc": {
+                "desc":"Instant snoring relief with our starter pack for an anti-snoring mouthpiece.",
+                "key_points": [
+                    {
+                        "title":"Simple to use",
+                        "desc":"no need for boiling or molding"
+                    },
+                    {
+                        "title":"Efficient" ,
+                        "desc":"relied upon by millions for over ten"
+                    },
+                    {
+                        "title":"Secure",
+                        "desc":"FDA-approved snoring remedy"
+                    },
+                    {
+                        "title":"Cozy",
+                        "desc":"soft, sleek, and adaptable"
+                    }
+                ],
+                "footer_desc":"NA"
+            }
+        }
+    ]
+}

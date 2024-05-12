@@ -1,0 +1,24 @@
+{
+	"snoringCategories":[
+	
+		{
+			"_id":1,
+			"name":"Anti-Snoring Mouthpieces",
+			"description":"All anti-snoring mouth pieces products are part of this category, currently we have two products in it",
+			"productCodes": {
+				"product1": "ASMP01",
+				"product2": "ASMP02"
+			}
+		},
+		{
+			"_id":2,
+			"name":"Other Solutions",
+			"description":"All other snoring products are part of this category, currently we have two products in it",
+			"productCodes": {
+				"product1": "OS01",
+				"product2": "OS02"
+			}
+		}
+	
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"productsList": [	
+		{
+			"productId":1,
+			"productCode":"PSQ01",
+			"productName":"SnoreQuit Anti-Snoring Mouthpiece - Single Pack",
+			"shortDescription":"Single pack product",
+			"defaultPrice":"80",
+			"currentPrice":"68",
+			"availabileQuantity":30,
+			"launchDate":"01-01-2025",
+			"endDate":"01-01-2027",
+			"isHidden":false
+		},
+		{
+			"productId":2,
+			"productCode":"PSQ02",
+			"productName":"SnoreQuit Anti-Snoring Mouthpiece - 2 Size Pack",
+			"shortDescription":"multi pack product",
+			"defaultPrice":"160",
+			"currentPrice":"130",
+			"availabileQuantity":27,
+			"launchDate":"01-01-2025",
+			"endDate":"01-01-2027",
+			"isHidden":false
+		},
+		{
+			"productId":3,
+			"productCode":"PSQ03",
+			"productName":"Nasal Spary",
+			"shortDescription":"multi pack product",
+			"defaultPrice":"160",
+			"currentPrice":"130",
+			"availabileQuantity":27,
+			"launchDate":"01-01-2025",
+			"endDate":"01-01-2027",
+			"isHidden":false
+		},
+		{
+			"productId":4,
+			"productCode":"PSQ04",
+			"productName":"Flex-Fit Earplugs",
+			"shortDescription":"multi pack product",
+			"defaultPrice":"80",
+			"currentPrice":"68",
+			"availabileQuantity":27,
+			"launchDate":"01-01-2025",
+			"endDate":"01-01-2027",
+			"isHidden":false
+		}	
+	]
+}

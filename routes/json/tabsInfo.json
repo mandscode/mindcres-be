@@ -1,0 +1,54 @@
+{ 
+    "tabInfo":[
+        {
+            "_tabId":1,
+            "tabName":"General Info",
+            "sections": [
+                {
+                    "sectionId": 1,
+                    "sectionCode": "GI1",
+                    "sectionName": "GUARANTEE"
+                },
+                {
+                    "sectionId": 2,
+                    "sectionCode": "GI2",
+                    "sectionName": "General Information"
+                }
+            ]
+        },
+        {
+            "_tabId":2,
+            "tabName":"Anti-Snoring Mouthpieces",
+            "sections": [
+                {
+                    "sectionId": 1,
+                    "sectionCode": "AS1",
+                    "sectionName": "Mouthpieces"
+                },
+                {
+                    "sectionId": 1,
+                    "sectionCode": "AS2",
+                    "sectionName": "Troubleshooting"
+                }
+            ]
+        },
+        {
+            "_tabId":3,
+            "tabName":"Other Solutions",
+            "sections": [
+                {
+                    "sectionId": 1,
+                    "sectionCode": "OS1",
+                    "sectionName": "SnoreQuit Earplugs"
+                }
+            ]
+        },
+        {
+            "_tabId":4,
+            "tabName":"Information on Snoring",
+            "sections": [
+                
+            ]
+        }
+    ]
+}
